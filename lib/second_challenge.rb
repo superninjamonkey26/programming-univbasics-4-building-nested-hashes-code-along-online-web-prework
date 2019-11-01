@@ -7,9 +7,9 @@ def second_challenge
       :hero_friends => ["Benvolio", "Mercucio"]
     }
     :capulet => {
-      :patriarch => {"Lord "},
-      :matriarch => {},
-      :heroine => {},
+      :patriarch => {"Lord Capulet"},
+      :matriarch => {"Lady Capulet"},
+      :heroine => {"Juliet"},
       :heroine_friends => []
     }
   }
